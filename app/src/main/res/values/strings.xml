@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dice</string>
+    <string name="message_toast">vous avez clicker sur le bouton</string>
+</resources>
